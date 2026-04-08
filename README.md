@@ -1,78 +1,78 @@
-<h1 align="center">Hi 👋, I'm Deva Bokare</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver</h3>
-
----
-
-## 🌄 Banner
+<!-- 🌄 SAHYADRI CUSTOM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Deva%20Bokare&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20🚀&descAlignY=65" />
+</p>
+
+<!-- 🔥 ANIMATED TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech&center=true&width=600&height=50&color=00ADB5&vCenter=true&size=22">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Student / Developer
-- 💻 I love building web apps
-- 🌱 Currently learning **MERN Stack**
-- ⚡ Fun fact: I turn coffee ☕ into code
+## 🚀 About Me
+
+I am **Deva Bokare**, a passionate **Full Stack Developer** dedicated to building scalable, efficient, and user-centric web applications.
+
+With a strong foundation in modern web technologies, I specialize in crafting seamless digital experiences using the **MERN stack**. I enjoy solving real-world problems, optimizing performance, and continuously learning new tools and frameworks.
+
+💡 I believe in:
+- Writing clean & maintainable code  
+- Building impactful digital products  
+- Constant growth through learning & experimentation  
 
 ---
 
 ## 🛠️ Tech Stack
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devabokare&show_icons=true&theme=tokyonight" />
 </p>
 
----
-
-## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devabokare&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabokare&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabokare&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🌐 Connect with me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> |
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>## Hi there 👋
-
-<!--
-**devabokare/devabokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver&center=true&width=500&height=50"></p>
-  ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+  <a href="https://www.linkedin.com/in/devrao-bokare-523b703a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/deva_bokare/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://deva-portfolio-master.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+---
+
+## ⚡ Personal Brand Statement
+
+> "I don’t just write code — I build experiences, solve problems, and create impact through technology." 🚀
+
+---
