@@ -1,112 +1,53 @@
-<!-- 🌄 SAHYADRI ELITE BANNER -->
+<h1 align="center">Hi, I'm Devrao Bokare 👋</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=260&section=header&text=Deva%20Bokare&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Building%20Digital%20Experiences%20🚀&descAlignY=65" />
+  <b>Full-Stack Software Architect & Technical Founder</b><br>
+  Architecting Multi-Tenant SaaS Platforms | 3D Web Graphics | Automated System Infrastructure
 </p>
 
-<!-- 🔥 ELITE TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Turning+Ideas+Into+Reality;Open+Source+Enthusiast;Always+Learning+🚀&center=true&width=700&height=60&color=00F5FF&vCenter=true&size=24">
-</p>
-
----
-
-## 🧠 Who Am I?
-
-I’m **Deva Bokare**, a results-driven **Full Stack Developer** focused on building scalable, high-performance web applications.
-
-I specialize in transforming ideas into real-world digital solutions using modern technologies. My approach combines **clean architecture, performance optimization, and user-centric design**.
-
-🚀 I don’t just build projects — I create **impactful products**.
-
----
-
-## ⚡ What I Do
-
-- 💻 Full Stack Web Development (MERN)
-- ⚙️ Backend APIs & System Design
-- 🎨 Modern UI/UX Interfaces
-- 🚀 Performance Optimization
-- 🔥 Real-world Problem Solving
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+  <a href="https://www.linkedin.com/in/devrao-bokare-523b703a9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deva@liftuplabs.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Intelligence
+### 🔥 Development Activity & Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devabokare&show_icons=true&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devabokare&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabokare&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devabokare&theme=tokyonight&hide_border=true" alt="Devrao's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devabokare&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Devrao's GitHub Stats" width="49%" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+### 💻 Core Technical Capabilities
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Architecture** | React, TypeScript, Next.js, Tailwind CSS, Framer Motion |
+| **3D & Canvas Graphics** | Three.js, React Three Fiber, WebGL, HTML Canvas |
+| **Backend & Databases** | Node.js, Express.js, PostgreSQL, MongoDB, Redis |
+| **DevOps & Infrastructure** | Linux (Ubuntu Server), Nginx, PM2, Cloudflare Tunnels, Docker |
+| **Hardware & IoT** | Raspberry Pi, ESP32, OpenCV, MediaPipe |
+
+---
+
+### ⚡ Architectural Speciality & Focus
+
+- **Multi-Tenant Systems:** Building scalable SaaS foundations with dynamic subdomain routing, tenant isolation, and granular RBAC (Role-Based Access Control).
+- **High-Performance UI/UX:** Crafting responsive web applications with smooth 3D object rendering, canvas math, and fluid UI animations.
+- **Server Infrastructure:** Managing Linux deployment pipelines, reverse proxies, custom domain mapping, and edge network configurations.
+
+---
+
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabokare&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabokare&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="60%" />
 </p>
 
 ---
 
-## 💼 Featured Work
-
-🔹 Portfolio Website  
-👉 https://deva-portfolio-master.vercel.app/
-
-🔹 GitHub Projects  
-👉 https://github.com/devabokare
-
----
-
-## 🌐 Digital Presence
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/devrao-bokare-523b703a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/deva_bokare/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://deva-portfolio-master.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <i>"Building resilient software architectures through clean code, modular design, and robust infrastructure."</i>
 </p>
-
----
-
-## 🏆 Achievements (Add yours later)
-
-- 🚀 Building real-world projects
-- 💡 Continuous learning mindset
-- 🧠 Strong problem-solving skills
-
----
-
-## 🎯 2026 Goals
-
-- 🔥 Master System Design
-- 🚀 Build SaaS Product
-- 🌍 Contribute to Open Source
-- 💼 Land Top Tech Opportunity
-
----
-
-## ⚡ Elite Mindset
-
-> "Discipline + Code + Consistency = Success" 🚀
-
----
